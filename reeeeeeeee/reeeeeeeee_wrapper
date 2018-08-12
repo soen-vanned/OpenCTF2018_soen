@@ -1,0 +1,2 @@
+#!/bin/bash
+qemu-sparc64 /home/challenge/reeeeeeeee

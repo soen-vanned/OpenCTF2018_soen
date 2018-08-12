@@ -1,0 +1,2 @@
+#!/bin/bash
+/usr/bin/qemu-arm /home/challenge/bbs
